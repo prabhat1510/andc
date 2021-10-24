@@ -1,0 +1,5 @@
+plugins:
+  fixme:
+    enabled: true
+exclude_patterns:
+- "**/*.spec.js"
